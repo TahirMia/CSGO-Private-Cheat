@@ -7,6 +7,8 @@ Syn's AyyWare Framework 2015
 #include "Chams.h"
 #include "Menu.h"
 
+#include <intrin.h>
+
 #include "Interfaces.h"
 #include "RenderManager.h"
 #include "MiscHacks.h"
