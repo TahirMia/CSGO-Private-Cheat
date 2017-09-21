@@ -4,3 +4,5 @@ My Own personal cheats for CSGO
 Compiled to test building
 Cannot find injector which is meant to be in it but built properly and it should work.
 Needs signature changing first so wouldn't recommend to play with yet(Online)!
+#Injector
+Injector is now available for use with a different signature.
