@@ -1,0 +1,33 @@
+﻿  AntiAntiAim.cpp
+  Autowall.cpp
+  Chams.cpp
+  Controls.cpp
+  CRC32.cpp
+  DLLMain.cpp
+  Dumping.cpp
+  ESP.cpp
+  GUI.cpp
+  Hacks.cpp
+  Hooks.cpp
+  ReflectiveLoader.cpp
+  Interfaces.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  Menu.cpp
+  MetaInfo.cpp
+  MiscHacks.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  Offsets.cpp
+  RageBot.cpp
+  RenderManager.cpp
+  Resolver.cpp
+  SpoofedConvar.cpp
+  tinyxml2.cpp
+  UTIL Functions.cpp
+  Utilities.cpp
+  Visual.cpp
+  Window.cpp
+     Creating library C:\Users\Tahir\Documents\GitHub\CSGO-Private-Cheat\Cheat\Release\pasta.lib and object C:\Users\Tahir\Documents\GitHub\CSGO-Private-Cheat\Cheat\Release\pasta.exp
+  AYYWARE CSGO.vcxproj -> C:\Users\Tahir\Documents\GitHub\CSGO-Private-Cheat\Cheat\Release\pasta.dll
+  AYYWARE CSGO.vcxproj -> C:\Users\Tahir\Documents\GitHub\CSGO-Private-Cheat\Cheat\Release\pasta.pdb (Full PDB)
