@@ -3,7 +3,7 @@
 #include <TlHelp32.h>
 
 // Change "MY_DLL_NAME.dll" to your dll name
-#define DLL_NAME "MY_DLL_NAME.dll"
+#define DLL_NAME "pasta.dll"
 
 // And you need:
 // 1. change all bytes(0x00, 0x01, 0x03....) in define "JUNKS" to random bytes
