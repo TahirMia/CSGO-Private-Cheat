@@ -1,0 +1,270 @@
+﻿  Window.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+  Visual.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\visual.cpp(69): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\visual.cpp(70): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\visual.cpp(71): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\visual.cpp(72): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+  Utilities.cpp
+  UTIL Functions.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\util functions.cpp(126): warning C4305: '=': truncation from 'double' to 'vec_t'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\util functions.cpp(127): warning C4305: '=': truncation from 'double' to 'vec_t'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\util functions.cpp(152): warning C4101: 'shit3': unreferenced local variable
+  tinyxml2.cpp
+  SpoofedConvar.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\spoofedconvar.cpp(133): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\spoofedconvar.cpp(149): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\spoofedconvar.cpp(150): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\spoofedconvar.cpp(168): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+  Resolver.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+  RenderManager.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(179): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(181): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(194): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(196): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(222): warning C4244: '=': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(223): warning C4244: '=': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(236): warning C4244: '=': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\rendermanager.cpp(237): warning C4244: '=': conversion from 'vec_t' to 'int', possible loss of data
+  RageBot.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(50): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(448): warning C4244: 'initializing': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(502): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(689): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(856): warning C4244: '=': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(941): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(973): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(978): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(1042): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(1049): warning C4244: '=': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(1254): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\ragebot.cpp(1255): warning C4305: 'argument': truncation from 'double' to 'float'
+  Offsets.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+  NetVars.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+  NetVarManager.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\netvarmanager.cpp(151): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\netvarmanager.cpp(162): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\netvarmanager.cpp(175): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\netvarmanager.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\netvarmanager.cpp(196): warning C4018: '<': signed/unsigned mismatch
+  MiscHacks.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\mischacks.cpp(326): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\mischacks.cpp(347): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  MetaInfo.cpp
+  Menu.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\menu.cpp(635): warning C4305: 'argument': truncation from 'double' to 'float'
+  MathFunctions.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(219): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\mathfunctions.cpp(138): warning C4244: '=': conversion from 'double' to 'vec_t', possible loss of data
+  LegitBot.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\legitbot.cpp(293): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\legitbot.cpp(295): warning C4551: function call missing argument list
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\legitbot.cpp(295): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\legitbot.cpp(451): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+  Interfaces.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+  ReflectiveLoader.cpp
+  Hooks.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\hooks.cpp(160): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\hooks.cpp(193): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\hooks.cpp(484): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\hooks.cpp(538): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  Hacks.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\hacks.cpp(184): warning C4305: '=': truncation from 'double' to 'vec_t'
+  GUI.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\gui.cpp(40): warning C4244: 'argument': conversion from 'LONG' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\gui.cpp(41): warning C4244: 'argument': conversion from 'LONG' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\gui.cpp(42): warning C4244: 'argument': conversion from 'LONG' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\gui.cpp(534): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ESP.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(275): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(276): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(277): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(278): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(323): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(324): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(373): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(376): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(381): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(382): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(383): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(384): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(389): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(390): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(391): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(392): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(397): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(398): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(399): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(400): warning C4244: 'argument': conversion from 'int' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(461): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(462): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(463): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(464): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(478): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(479): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(486): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(523): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(551): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(568): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(585): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\esp.cpp(610): warning C4244: 'argument': conversion from 'vec_t' to 'int', possible loss of data
+  Dumping.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+  DLLMain.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+  CRC32.cpp
+  Controls.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(200): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(201): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(220): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(222): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(449): warning C4018: '<': signed/unsigned mismatch
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(526): warning C4018: '<': signed/unsigned mismatch
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\controls.cpp(536): warning C4018: '<': signed/unsigned mismatch
+  Chams.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\chams.cpp(82): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\chams.cpp(82): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\chams.cpp(89): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Autowall.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\autowall.cpp(90): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\autowall.cpp(105): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  AntiAntiAim.cpp
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(192): warning C4244: 'argument': conversion from 'double' to 'vec_t', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(199): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\vector.h(200): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\entities.h(1004): warning C4244: 'argument': conversion from 'ULONGLONG' to 'float', possible loss of data
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\antiantiaim.cpp(24): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\antiantiaim.cpp(27): warning C4145: '==': relational expression as switch expression; possible confusion with '='
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\antiantiaim.cpp(33): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\antiantiaim.cpp(47): warning C4808: case '2' is not a valid value for switch condition of type 'bool'
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\antiantiaim.cpp(97): warning C4145: '==': relational expression as switch expression; possible confusion with '='
+c:\users\tahir\documents\github\csgo-private-cheat\cheat\antiantiaim.cpp(123): warning C4808: case '2' is not a valid value for switch condition of type 'bool'
+  Generating Code...
