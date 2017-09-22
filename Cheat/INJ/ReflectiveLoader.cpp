@@ -497,7 +497,7 @@ BOOL WINAPI DllMain( HINSTANCE hinstDLL, DWORD dwReason, LPVOID lpReserved )
 
 #endif
 //===============================================================================================//
-
+/*
 //JUNK CODE STARTS HERE!!
 #include <stdio.h>
 #include <string>
@@ -1056,3 +1056,4 @@ kwskvor::kwskvor() {
 	this->gryznnzpsoaxhxisipedydlj(50233, 18816);
 	this->ixjzuuhwnwxgqzswzy(false, 11380, true, 15649, string("tktbdnthcnogifatxyqv"), 4526, true, string("odisoscjafldjfsoiitvvuaeauiojrxuuolojmxttojfihuyxuqerfrphcuyttuilaeskwslthkstjadukzpysbjhauv"), string("cmuzfuxeuembcchvuyutevthozywugu"));
 }
+*/

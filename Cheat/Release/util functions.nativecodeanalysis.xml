@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>613</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::tneojekviutezorspcim</FUNCTION>
+    <DECORATED>?tneojekviutezorspcim@srpivzm@@AAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HNN_N01@Z</DECORATED>
+    <FUNCLINE>603</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>625</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::tneojekviutezorspcim</FUNCTION>
+    <DECORATED>?tneojekviutezorspcim@srpivzm@@AAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HNN_N01@Z</DECORATED>
+    <FUNCLINE>603</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>631</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::tneojekviutezorspcim</FUNCTION>
+    <DECORATED>?tneojekviutezorspcim@srpivzm@@AAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HNN_N01@Z</DECORATED>
+    <FUNCLINE>603</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>637</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::tneojekviutezorspcim</FUNCTION>
+    <DECORATED>?tneojekviutezorspcim@srpivzm@@AAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HNN_N01@Z</DECORATED>
+    <FUNCLINE>603</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>649</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::dwvcclilhjyuznqspojuimq</FUNCTION>
+    <DECORATED>?dwvcclilhjyuznqspojuimq@srpivzm@@AAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>646</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>669</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::kqbeoiuehrbnuulnssxajwrss</FUNCTION>
+    <DECORATED>?kqbeoiuehrbnuulnssxajwrss@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ</DECORATED>
+    <FUNCLINE>658</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>675</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::kqbeoiuehrbnuulnssxajwrss</FUNCTION>
+    <DECORATED>?kqbeoiuehrbnuulnssxajwrss@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ</DECORATED>
+    <FUNCLINE>658</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>687</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::kqbeoiuehrbnuulnssxajwrss</FUNCTION>
+    <DECORATED>?kqbeoiuehrbnuulnssxajwrss@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ</DECORATED>
+    <FUNCLINE>658</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>693</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::kqbeoiuehrbnuulnssxajwrss</FUNCTION>
+    <DECORATED>?kqbeoiuehrbnuulnssxajwrss@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ</DECORATED>
+    <FUNCLINE>658</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>718</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::jokejdeeoxltfrlqu</FUNCTION>
+    <DECORATED>?jokejdeeoxltfrlqu@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HN@Z</DECORATED>
+    <FUNCLINE>702</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>737</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::oqafwvbtrhcliduxv</FUNCTION>
+    <DECORATED>?oqafwvbtrhcliduxv@srpivzm@@AAE_NNH_N00V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@1@Z</DECORATED>
+    <FUNCLINE>727</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>743</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::oqafwvbtrhcliduxv</FUNCTION>
+    <DECORATED>?oqafwvbtrhcliduxv@srpivzm@@AAE_NNH_N00V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@1@Z</DECORATED>
+    <FUNCLINE>727</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>749</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::oqafwvbtrhcliduxv</FUNCTION>
+    <DECORATED>?oqafwvbtrhcliduxv@srpivzm@@AAE_NNH_N00V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@1@Z</DECORATED>
+    <FUNCLINE>727</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>762</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::emwmhhioybzfbcbvcgbtjghd</FUNCTION>
+    <DECORATED>?emwmhhioybzfbcbvcgbtjghd@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@NH_NHHV23@NN@Z</DECORATED>
+    <FUNCLINE>758</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>768</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::emwmhhioybzfbcbvcgbtjghd</FUNCTION>
+    <DECORATED>?emwmhhioybzfbcbvcgbtjghd@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@NH_NHHV23@NN@Z</DECORATED>
+    <FUNCLINE>758</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>774</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::emwmhhioybzfbcbvcgbtjghd</FUNCTION>
+    <DECORATED>?emwmhhioybzfbcbvcgbtjghd@srpivzm@@AAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@NH_NHHV23@NN@Z</DECORATED>
+    <FUNCLINE>758</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>795</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::saggyeocgtbohhitcx</FUNCTION>
+    <DECORATED>?saggyeocgtbohhitcx@srpivzm@@AAEHHH_NNH@Z</DECORATED>
+    <FUNCLINE>789</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>801</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::saggyeocgtbohhitcx</FUNCTION>
+    <DECORATED>?saggyeocgtbohhitcx@srpivzm@@AAEHHH_NNH@Z</DECORATED>
+    <FUNCLINE>789</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>813</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::saggyeocgtbohhitcx</FUNCTION>
+    <DECORATED>?saggyeocgtbohhitcx@srpivzm@@AAEHHH_NNH@Z</DECORATED>
+    <FUNCLINE>789</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>869</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6294</DEFECTCODE>
+    <DESCRIPTION>Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.</DESCRIPTION>
+    <FUNCTION>srpivzm::ffcdjwxcdebtnuoxvqlsemdge</FUNCTION>
+    <DECORATED>?ffcdjwxcdebtnuoxvqlsemdge@srpivzm@@AAE_NH_NH@Z</DECORATED>
+    <FUNCLINE>841</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>849</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::ffcdjwxcdebtnuoxvqlsemdge</FUNCTION>
+    <DECORATED>?ffcdjwxcdebtnuoxvqlsemdge@srpivzm@@AAE_NH_NH@Z</DECORATED>
+    <FUNCLINE>841</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>855</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::ffcdjwxcdebtnuoxvqlsemdge</FUNCTION>
+    <DECORATED>?ffcdjwxcdebtnuoxvqlsemdge@srpivzm@@AAE_NH_NH@Z</DECORATED>
+    <FUNCLINE>841</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>861</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::ffcdjwxcdebtnuoxvqlsemdge</FUNCTION>
+    <DECORATED>?ffcdjwxcdebtnuoxvqlsemdge@srpivzm@@AAE_NH_NH@Z</DECORATED>
+    <FUNCLINE>841</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>889</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::qqjipwjcwiozgouxso</FUNCTION>
+    <DECORATED>?qqjipwjcwiozgouxso@srpivzm@@IAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>876</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>901</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::qqjipwjcwiozgouxso</FUNCTION>
+    <DECORATED>?qqjipwjcwiozgouxso@srpivzm@@IAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>876</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>907</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::qqjipwjcwiozgouxso</FUNCTION>
+    <DECORATED>?qqjipwjcwiozgouxso@srpivzm@@IAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>876</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>929</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::atxindgvsagmqms</FUNCTION>
+    <DECORATED>?atxindgvsagmqms@srpivzm@@IAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HNN_N@Z</DECORATED>
+    <FUNCLINE>920</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>985</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::psamdddplojuwnf</FUNCTION>
+    <DECORATED>?psamdddplojuwnf@srpivzm@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_NNH@Z</DECORATED>
+    <FUNCLINE>978</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>991</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::psamdddplojuwnf</FUNCTION>
+    <DECORATED>?psamdddplojuwnf@srpivzm@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_NNH@Z</DECORATED>
+    <FUNCLINE>978</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>997</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::psamdddplojuwnf</FUNCTION>
+    <DECORATED>?psamdddplojuwnf@srpivzm@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_NNH@Z</DECORATED>
+    <FUNCLINE>978</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1003</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::psamdddplojuwnf</FUNCTION>
+    <DECORATED>?psamdddplojuwnf@srpivzm@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_NNH@Z</DECORATED>
+    <FUNCLINE>978</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1028</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::vhwrjuqdyuysmuzneiaxmxx</FUNCTION>
+    <DECORATED>?vhwrjuqdyuysmuzneiaxmxx@srpivzm@@QAEHHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@N@Z</DECORATED>
+    <FUNCLINE>1012</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1047</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::yltvpygsbk</FUNCTION>
+    <DECORATED>?yltvpygsbk@srpivzm@@QAEHXZ</DECORATED>
+    <FUNCLINE>1043</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1059</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::yltvpygsbk</FUNCTION>
+    <DECORATED>?yltvpygsbk@srpivzm@@QAEHXZ</DECORATED>
+    <FUNCLINE>1043</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1078</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::glwdetbpsmxkbyvyvoyxlgelb</FUNCTION>
+    <DECORATED>?glwdetbpsmxkbyvyvoyxlgelb@srpivzm@@QAEXH_N@Z</DECORATED>
+    <FUNCLINE>1072</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1084</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::glwdetbpsmxkbyvyvoyxlgelb</FUNCTION>
+    <DECORATED>?glwdetbpsmxkbyvyvoyxlgelb@srpivzm@@QAEXH_N@Z</DECORATED>
+    <FUNCLINE>1072</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1090</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::glwdetbpsmxkbyvyvoyxlgelb</FUNCTION>
+    <DECORATED>?glwdetbpsmxkbyvyvoyxlgelb@srpivzm@@QAEXH_N@Z</DECORATED>
+    <FUNCLINE>1072</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1096</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::glwdetbpsmxkbyvyvoyxlgelb</FUNCTION>
+    <DECORATED>?glwdetbpsmxkbyvyvoyxlgelb@srpivzm@@QAEXH_N@Z</DECORATED>
+    <FUNCLINE>1072</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1102</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::glwdetbpsmxkbyvyvoyxlgelb</FUNCTION>
+    <DECORATED>?glwdetbpsmxkbyvyvoyxlgelb@srpivzm@@QAEXH_N@Z</DECORATED>
+    <FUNCLINE>1072</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1121</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::lgezcbogbhwennlibn</FUNCTION>
+    <DECORATED>?lgezcbogbhwennlibn@srpivzm@@QAEXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0NN@Z</DECORATED>
+    <FUNCLINE>1111</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1145</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::qiczruicojwk</FUNCTION>
+    <DECORATED>?qiczruicojwk@srpivzm@@QAEN_N@Z</DECORATED>
+    <FUNCLINE>1135</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1151</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::qiczruicojwk</FUNCTION>
+    <DECORATED>?qiczruicojwk@srpivzm@@QAEN_N@Z</DECORATED>
+    <FUNCLINE>1135</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1170</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::cjpxropyqwhrjcmr</FUNCTION>
+    <DECORATED>?cjpxropyqwhrjcmr@srpivzm@@QAEHHHH@Z</DECORATED>
+    <FUNCLINE>1166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\tahir\documents\github\csgo-private-cheat\cheat\</FILEPATH>
+      <FILENAME>util functions.cpp</FILENAME>
+      <LINE>1176</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6326</DEFECTCODE>
+    <DESCRIPTION>Potential comparison of a constant with another constant.</DESCRIPTION>
+    <FUNCTION>srpivzm::cjpxropyqwhrjcmr</FUNCTION>
+    <DECORATED>?cjpxropyqwhrjcmr@srpivzm@@QAEHHHH@Z</DECORATED>
+    <FUNCLINE>1166</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
