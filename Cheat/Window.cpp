@@ -91,5 +91,4 @@ void CTab::RegisterControl(CControl* control)
 	Controls.push_back(control);
 }
 
-//JUNK CODE STARTS HERE!!
-
+//JUNK CODE DOESN'T WORK ON THIS CPP
