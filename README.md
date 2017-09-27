@@ -1,5 +1,6 @@
 # RELEASED
 Now released for testing!
+Check Final Release
 # CSGO-Private-Cheat
 My Own personal cheats for CSGO
 # Injector
