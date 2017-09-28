@@ -1,3 +1,5 @@
-﻿     Creating library .\Final Release\pasta.lib and object .\Final Release\pasta.exp
-  AYYWARE CSGO.vcxproj -> C:\Users\Tahir\Documents\GitHub\CSGO-Private-Cheat\Cheat\.\Final Release\pasta.dll
-  AYYWARE CSGO.vcxproj -> .\Final Release\pasta.pdb (Full PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Menu.cpp
+     Creating library ..\..\..\..\Desktop\Armaan rel\pasta.lib and object ..\..\..\..\Desktop\Armaan rel\pasta.exp
+  AYYWARE CSGO.vcxproj -> C:\Users\Tahir\Documents\GitHub\CSGO-Private-Cheat\Cheat\..\..\..\..\Desktop\Armaan rel\pasta.dll
+  AYYWARE CSGO.vcxproj -> ..\..\..\..\Desktop\Armaan rel\pasta.pdb (Full PDB)
