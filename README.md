@@ -1,3 +1,5 @@
+<span style="color:red">NOW DETECTED</span>
+
 # RELEASED
 Now released for testing!
 Check Final Release
