@@ -1,4 +1,4 @@
-<span style="color:red">NOW DETECTED</span>
+#NOW DETECTED
 
 # RELEASED
 Now released for testing!
